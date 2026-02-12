@@ -1,0 +1,396 @@
+{
+  "category": "MYTHOLOGICAL_CREATURE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/cockatrice",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "cockatrice",
+    "name": "Cockatrice",
+    "aliases": [
+      {
+        "name": "Basilisco",
+        "language": "Italian",
+        "region": "Medieval Italy"
+      },
+      {
+        "name": "Cocatris",
+        "language": "Middle English",
+        "region": "Medieval England"
+      }
+    ],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Serpent Hybrid",
+    "tags": [
+      "medieval",
+      "european",
+      "serpent",
+      "deadly-gaze",
+      "heraldry",
+      "bestiary",
+      "hybrid-creature"
+    ],
+    "status": "mythological",
+    "description": {
+      "summary": "A legendary serpent with a rooster's head from medieval European folklore. Known for its deadly petrifying gaze, poisonous breath, and birth from a rooster's egg incubated by a serpent or toad.",
+      "full": "The cockatrice is a mythical creature from medieval European folklore, depicted as a two-legged dragon or serpent with a rooster's head and wings. Often conflated with the basilisk, the cockatrice is sometimes distinguished by having wings while the basilisk does not. Born from a yolkless egg laid by a rooster and incubated by a serpent or toad, the cockatrice possesses lethal powers including a petrifying gaze, poisonous breath, and deadly touch. Its weaknesses include weasels, its own reflection in a mirror, and the crow of a rooster. The creature features prominently in medieval bestiaries, heraldry, and literature."
+    },
+    "etymology": {
+      "origin": "From Middle English 'cocatris', from Old French 'cocatris', from Late Latin 'calcatrix' (tracker), influenced by 'coccus' (berry) and later associated with 'cock' (rooster).",
+      "meaning": "Rooster-serpent hybrid",
+      "first_use": "14th century"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Serpent Hybrid",
+      "subtype": "Dragon-like",
+      "variant": "Medieval European"
+    },
+    "related_phenomena": [
+      {
+        "id": "basilisk",
+        "name": "Basilisk",
+        "relationship": "often_conflated",
+        "description": "King of serpents with similar deadly gaze, sometimes distinguished as wingless"
+      },
+      {
+        "id": "amphisbaena",
+        "name": "Amphisbaena",
+        "relationship": "related",
+        "description": "Two-headed serpent from classical mythology"
+      },
+      {
+        "id": "dragon",
+        "name": "Dragon",
+        "relationship": "similar",
+        "description": "Winged serpentine creature of European folklore"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "size": {
+        "description": "Small to medium, typically depicted as chicken-sized to large dog-sized",
+        "confidence": "medium"
+      },
+      "coloration": [
+        "yellow feathers",
+        "green scales",
+        "brown",
+        "black"
+      ],
+      "features": [
+        {
+          "feature": "Rooster head",
+          "description": "Head of a rooster with comb and wattles",
+          "frequency": "always"
+        },
+        {
+          "feature": "Wings",
+          "description": "Dragon-like or bird-like wings",
+          "frequency": "common"
+        },
+        {
+          "feature": "Serpent tail",
+          "description": "Long serpentine or dragon tail, sometimes barbed",
+          "frequency": "always"
+        },
+        {
+          "feature": "Two legs",
+          "description": "Typically depicted with two legs rather than four",
+          "frequency": "common"
+        },
+        {
+          "feature": "Scales",
+          "description": "Reptilian scales on body",
+          "frequency": "common"
+        }
+      ],
+      "morphology": "Bipedal creature combining rooster head and wings with serpent or dragon body and tail"
+    },
+    "abilities": [
+      {
+        "ability": "Petrifying gaze",
+        "description": "Gaze that can turn victims to stone or kill instantly",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Poisonous breath",
+        "description": "Breath so toxic it withers plants and poisons the air",
+        "frequency": "common",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Deadly touch",
+        "description": "Touch that can kill on contact",
+        "frequency": "common",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Flight",
+        "description": "Ability to fly with dragon or bird wings",
+        "frequency": "common",
+        "evidence_level": "mythological"
+      }
+    ],
+    "behavior": {
+      "disposition": "hostile",
+      "habitat_preference": [
+        "caverns",
+        "ruins",
+        "underground lairs",
+        "desolate places"
+      ],
+      "diet": "Unknown, presumably carnivorous",
+      "patterns": [
+        "Aggressive toward all living things",
+        "Territorial",
+        "Deadly to approach"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Medieval European folklore, particularly England, France, and Italy",
+      "continents": ["Europe"],
+      "regions": [
+        "Medieval England",
+        "Medieval France",
+        "Medieval Italy",
+        "Medieval Germany"
+      ]
+    },
+    "cultural_presence": [
+      {
+        "name": "Medieval bestiaries",
+        "period": "12th-15th centuries",
+        "notes": "Featured in illuminated manuscripts and natural history texts"
+      },
+      {
+        "name": "Heraldry",
+        "period": "Medieval-present",
+        "notes": "Used as heraldic symbol representing deadly vigilance"
+      },
+      {
+        "name": "Literature",
+        "period": "Medieval-Renaissance",
+        "notes": "Appears in Spenser's 'Faerie Queene' and other works"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "14th century",
+        "circa": true,
+        "source": "Medieval bestiaries"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "Medieval period",
+          "description": "Primary period of cockatrice folklore"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Medieval European folklore, possibly influenced by Classical basilisk legends and fear of roosters laying eggs (a rare medical condition).",
+      "earliest_accounts": "14th century medieval bestiaries and manuscripts",
+      "folklore_connections": "Connected to basilisk mythology, dragon lore, and medieval natural history beliefs"
+    },
+    "timeline": [
+      {
+        "date": "14th century",
+        "event": "First appearances in bestiaries",
+        "significance": "Cockatrice becomes established in medieval bestiary tradition",
+        "source": "Medieval manuscripts"
+      },
+      {
+        "date": "1590s",
+        "event": "Edmund Spenser's 'Faerie Queene'",
+        "significance": "Notable literary appearance in major English epic poem",
+        "source": "The Faerie Queene, Book III"
+      },
+      {
+        "date": "Medieval period",
+        "event": "'Cock Lane' warnings",
+        "significance": "Streets and alleys named 'Cock Lane' as warnings of cockatrice sightings",
+        "source": "English folklore"
+      }
+    ],
+    "modern_era": "The cockatrice remains a popular creature in heraldry, fantasy literature, and gaming. It appears in works like Harry Potter and various role-playing games, maintaining its status as a classic medieval monster."
+  },
+
+  "lore": {
+    "birth_myth": {
+      "description": "Born from a yolkless egg (sometimes called a 'cock's egg') laid by a seven-year-old rooster and incubated by a serpent or toad on a dunghill",
+      "variations": [
+        "Incubated by a toad",
+        "Incubated by a serpent",
+        "Hatched during the dog days of summer"
+      ]
+    },
+    "weaknesses": [
+      {
+        "weakness": "Weasel",
+        "description": "The weasel is immune to the cockatrice's gaze and is its natural enemy",
+        "effectiveness": "lethal"
+      },
+      {
+        "weakness": "Mirror",
+        "description": "Its own reflection can petrify or kill it",
+        "effectiveness": "lethal"
+      },
+      {
+        "weakness": "Rooster's crow",
+        "description": "The sound of a rooster crowing is fatal to the cockatrice",
+        "effectiveness": "lethal"
+      }
+    ],
+    "symbolism": [
+      "Deadly vigilance",
+      "Hidden danger",
+      "Corruption and sin",
+      "Unnatural creation"
+    ]
+  },
+
+  "evidence": {
+    "physical": [],
+    "historical": [
+      {
+        "type": "manuscript",
+        "description": "Medieval bestiaries with cockatrice illustrations and descriptions",
+        "status": "documented",
+        "period": "12th-15th centuries"
+      },
+      {
+        "type": "heraldic",
+        "description": "Cockatrice symbols in coat of arms and heraldic devices",
+        "status": "documented",
+        "period": "Medieval-present"
+      }
+    ],
+    "literary": [
+      {
+        "work": "The Faerie Queene",
+        "author": "Edmund Spenser",
+        "date": "1590s",
+        "description": "Notable appearance in English epic poetry"
+      }
+    ]
+  },
+
+  "theories": {
+    "folkloric": [
+      {
+        "name": "Rooster egg phenomenon",
+        "description": "Based on rare condition where roosters develop and lay small, malformed eggs",
+        "evidence_cited": ["Medieval accounts of roosters laying eggs", "Biological anomalies"]
+      },
+      {
+        "name": "Serpent mythology fusion",
+        "description": "Combination of serpent mythology with bird symbolism",
+        "evidence_cited": ["Classical basilisk legends", "Medieval bestiary traditions"]
+      }
+    ],
+    "symbolic": [
+      {
+        "name": "Moral allegory",
+        "description": "Represents the danger of pride and unnatural acts",
+        "interpretation": "Medieval Christian symbolism"
+      }
+    ],
+    "historical_basis": [
+      {
+        "name": "No historical basis",
+        "description": "Pure medieval creation with no cryptozoological claims",
+        "evidence_cited": ["No sighting reports", "Purely literary and artistic tradition"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Medieval bestiary tradition",
+        "English folklore warnings",
+        "Heraldic symbolism"
+      ],
+      "beliefs": "Believed to be a real creature in medieval times, part of natural history understanding"
+    },
+    "popular_culture": {
+      "literature": [
+        "The Faerie Queene by Edmund Spenser (1590s)",
+        "Harry Potter series (cockatrice as magical creature)",
+        "Various fantasy novels and games"
+      ],
+      "games": [
+        "Dungeons & Dragons",
+        "Final Fantasy series",
+        "The Witcher series",
+        "Dark Souls"
+      ],
+      "heraldry": [
+        "Various European coats of arms",
+        "Symbol of deadly vigilance"
+      ]
+    }
+  },
+
+  "research": {
+    "scholars": [
+      {
+        "name": "Medieval bestiary compilers",
+        "contribution": "Documented cockatrice lore in medieval manuscripts",
+        "period": "12th-15th centuries"
+      }
+    ],
+    "classification": "Mythological creature - no modern cryptozoological research"
+  },
+
+  "sources": [
+    {
+      "id": "white-1954",
+      "type": "book",
+      "title": "The Book of Beasts: Being a Translation from a Latin Bestiary of the Twelfth Century",
+      "authors": ["T.H. White"],
+      "publication": "Jonathan Cape",
+      "date": "1954"
+    },
+    {
+      "id": "medieval-bestiaries",
+      "type": "manuscript",
+      "title": "Various Medieval Bestiaries",
+      "date": "12th-15th centuries"
+    },
+    {
+      "id": "spenser-fq",
+      "type": "literary",
+      "title": "The Faerie Queene",
+      "authors": ["Edmund Spenser"],
+      "date": "1590s"
+    }
+  ]
+}
